@@ -1,6 +1,8 @@
 ## Bem-vindo(a), sou Jhuly Salles
 Tenho 18 anos
 
+Estou no terceiro ano do ensino médio
+
 Faço curso de Técnico em Logística e de Programador Full Stack
 
 ## Contato
