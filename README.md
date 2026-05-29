@@ -9,7 +9,7 @@ Faço curso de Técnico em Logística e de Programador Full Stack
 
 <a href="https://www.instagram.com/sallessxw/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-      <a href="https://www.linkedin.com/in/jhuly-salles/" target="_blank">
+      <a href="www.linkedin.com/in/jhuly-salles-343b763a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
